@@ -650,7 +650,8 @@ $warning=$warning."</br>".$row1["cat16"]."</br>".$row1["message"];
                       /**
                        * Convert GeoJSON to SVG
                        */
-					  console.log(map) 
+					  console.log(map)
+// want to create the help of map					  
 					   
                       AmCharts.parseGeoJSON = function(geojson, fieldMap) {
                         
